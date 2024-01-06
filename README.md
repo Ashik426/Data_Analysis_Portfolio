@@ -1,4 +1,4 @@
-# Data_Analysis_Portfolio
+# Data_Analysis_Portfolio (https://ashik426.github.io/Data_Analysis_Portfolio/)
 Data &amp; GIS Analysis Portfolio
 
 # [Project 1: Investigating Netflix Movies](https://ashik426.github.io/Investigating-Netflix-Movies/)
