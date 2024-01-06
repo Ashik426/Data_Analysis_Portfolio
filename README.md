@@ -1,6 +1,6 @@
 # Data_Analysis_Portfolio 
 Data &amp; GIS Analysis Portfolio
-### L I V E    L I N K   (https://ashik426.github.io/Data_Analysis_Portfolio/)
+### L I V E  -  L I N K   (https://ashik426.github.io/Data_Analysis_Portfolio/)
 
 # [Project 1: Investigating Netflix Movies](https://ashik426.github.io/Investigating-Netflix-Movies/)
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
